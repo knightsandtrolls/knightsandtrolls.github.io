@@ -1,0 +1,47 @@
+{
+    "platforms": [
+        {
+            "image": "platform-bricks",
+            "x": 1000,
+            "y": 940,
+            "scaleX": 1,
+            "scaleY": 0.75
+        },
+        {
+            "image": "platform-bricks",
+            "x": 100,
+            "y": 840,
+            "scaleX": 1,
+            "scaleY": 0.75
+        },
+        {
+            "image": "platform-bricks",
+            "x": 1300,
+            "y": 700,
+            "scaleX": 0.75,
+            "scaleY": 0.75
+        },
+        {
+            "image": "platform-bricks",
+            "x": 500,
+            "y": 460,
+            "scaleX": 1,
+            "scaleY": 0.75
+        }
+    ],
+    "trolls": [
+        {"x": 400, "y": 700, "type": 1},
+        {"x": 1400, "y": 750, "type": 1},
+        {"x": 1200, "y": 500, "type": 0},
+        {"x": 500, "y": 200, "type": 1}
+    ],
+    "map": {"x": 550, "y": 380},
+    "lifePotions": [
+        {
+            "x": 1500,
+            "y": 1080,
+            "lifePoints": 15
+        }
+    ],
+    "player": {"x": 50, "y": 1000, "asset": "player"}
+}

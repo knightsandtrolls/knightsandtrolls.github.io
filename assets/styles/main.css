@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  background-color: #26263a;
+  text-align: center;
+  color: white;
+}
+
+.header {
+  padding: 20px 30px;
+}
+
+.title {
+  font-size: 50px;
+  
+}
+
+.subtitle {
+  max-width: 70%;
+  margin: 0 auto;
+  font-size: 30px;
+  color: #d1d1d1;
+}
+
+.contentWrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+
+.section {
+  margin: 50px auto;
+}
+
+.instructions, .commands {
+  padding: 0;
+  text-align: left;
+}
+
+.commands__item, .instructions__item {
+  font-size: 25px;
+}
+
+.listWrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.section__title {
+  color: #a0a0a0;
+  font-size: 35px;
+}
